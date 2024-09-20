@@ -1,0 +1,50 @@
+Space sectors inorder traversal:
+0SSS
+22SUF
+31SUF
+59RUF
+64RUF
+
+Space sectors preorder traversal:
+0SSS
+22SUF
+31SUF
+59RUF
+64RUF
+
+Space sectors postorder traversal:
+64RUF
+59RUF
+31SUF
+22SUF
+0SSS
+
+A path to Dr. Elara could not be found.
+
+The stellar path to Dr. Elara: 0SSS->22SUF->31SUF
+
+Space sectors inorder traversal:
+BLACK sector: 0SSS
+RED sector: 22SUF
+BLACK sector: 31SUF
+BLACK sector: 59RUF
+BLACK sector: 64RUF
+
+Space sectors preorder traversal:
+BLACK sector: 59RUF
+RED sector: 22SUF
+BLACK sector: 0SSS
+BLACK sector: 31SUF
+BLACK sector: 64RUF
+
+Space sectors postorder traversal:
+BLACK sector: 0SSS
+BLACK sector: 31SUF
+RED sector: 22SUF
+BLACK sector: 64RUF
+BLACK sector: 59RUF
+
+A path to Dr. Elara could not be found.
+
+The stellar path to Dr. Elara: 0SSS->22SUF->31SUF
+

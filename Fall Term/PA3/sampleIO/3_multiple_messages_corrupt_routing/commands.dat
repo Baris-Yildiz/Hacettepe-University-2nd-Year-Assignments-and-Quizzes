@@ -1,0 +1,31 @@
+30
+MESSAGE A B #Every time we get a new assignment I am convinced our TAs are trying to debug our social life out of existence.#
+MESSAGE X B #Our TAs assignments make me wonder if the 'sleep' function has been deprecated in the latest version of student life.#
+SHOW_FRAME_INFO A out 3
+SHOW_FRAME_INFO A in 2
+SHOW_FRAME_INFO B in 1
+SHOW_Q_INFO A out
+SHOW_Q_INFO B in
+SHOW_Q_INFO X out
+SEND
+EAVESDROP_ON X
+SHOW_FRAME_INFO A out 3
+SHOW_FRAME_INFO B in 1
+SHOW_Q_INFO X out
+SHOW_Q_INFO B in
+MESSAGE C D #I am convinced our TAs think we are a cluster of AI machines with the amount of processing power these assignments require.#
+SHOW_Q_INFO C out
+SHOW_FRAME_INFO C out 6
+RECEIVE
+SHOW_FRAME_INFO B in 1
+SHOW_Q_INFO B in
+SEND
+SHOW_Q_INFO C out
+SHOW_FRAME_INFO C out 6
+SHOW_Q_INFO D in
+RECEIVE
+PRINT_LOG A
+PRINT_LOG B
+PRINT_LOG C
+PRINT_LOG D
+PRINT_LOG X

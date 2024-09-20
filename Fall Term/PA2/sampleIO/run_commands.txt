@@ -1,0 +1,11 @@
+blockfall samples/1_big_grid_gravity_switch/grid.dat samples/1_big_grid_gravity_switch/blocks.dat samples/1_big_grid_gravity_switch/commands.dat GRAVITY_OFF samples/leaderboard.txt InfiniteLooper
+blockfall samples/2_game_over/grid.dat samples/2_game_over/blocks.dat samples/2_game_over/commands.dat GRAVITY_OFF samples/leaderboard.txt StackOverthrow
+blockfall samples/3_gravity_change/grid.dat samples/3_gravity_change/blocks.dat samples/3_gravity_change/commands.dat GRAVITY_OFF samples/leaderboard.txt ByteBouncer
+blockfall samples/4_gravity_on/grid.dat samples/4_gravity_on/blocks.dat samples/4_gravity_on/commands.dat GRAVITY_ON samples/leaderboard.txt RecursiveRaider
+blockfall samples/5_longplay_with_powerups/grid.dat samples/5_longplay_with_powerups/blocks.dat samples/5_longplay_with_powerups/commands.dat GRAVITY_OFF samples/leaderboard.txt DebugDropper
+blockfall samples/6_longplay_with_powerups_2/grid.dat samples/6_longplay_with_powerups_2/blocks.dat samples/6_longplay_with_powerups_2/commands.dat GRAVITY_OFF samples/leaderboard.txt ArrayAvenger
+blockfall samples/7_no_more_blocks/grid.dat samples/7_no_more_blocks/blocks.dat samples/7_no_more_blocks/commands.dat GRAVITY_OFF samples/leaderboard.txt NullNinja
+blockfall samples/8_powerup_only/grid.dat samples/8_powerup_only/blocks.dat samples/8_powerup_only/commands.dat GRAVITY_OFF samples/leaderboard.txt HeapHopper
+blockfall samples/9_shortplay/grid.dat samples/9_shortplay/blocks.dat samples/9_shortplay/commands.dat GRAVITY_OFF samples/leaderboard.txt CacheCrasher
+blockfall samples/10_small_grid/grid.dat samples/10_small_grid/blocks.dat samples/10_small_grid/commands.dat GRAVITY_OFF samples/leaderboard.txt ThreadTumbler
+blockfall samples/11_assemble_powerup/grid.dat samples/11_assemble_powerup/blocks.dat samples/11_assemble_powerup/commands.dat GRAVITY_OFF samples/leaderboard.txt ThreadTumbler

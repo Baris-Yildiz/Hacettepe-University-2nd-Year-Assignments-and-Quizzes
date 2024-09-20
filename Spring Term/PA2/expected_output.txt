@@ -1,0 +1,14 @@
+##MISSION POWER GRID OPTIMIZATION##
+The total number of demanded gigawatts: 22
+Maximum number of satisfied gigawatts: 12
+Hours at which the battery bank should be discharged: 3, 5
+The number of unsatisfied gigawatts: 10
+##MISSION POWER GRID OPTIMIZATION COMPLETED##
+##MISSION ECO-MAINTENANCE##
+The minimum number of ESVs to deploy: 5
+ESV 1 tasks: [100]
+ESV 2 tasks: [80, 20]
+ESV 3 tasks: [70, 30]
+ESV 4 tasks: [50, 40, 10]
+ESV 5 tasks: [10]
+##MISSION ECO-MAINTENANCE COMPLETED##

@@ -1,0 +1,203 @@
+--------------------------------------------------------------------------------------
+Command: MESSAGE C E #A few small hops for frames, but a giant leap for this message.#
+--------------------------------------------------------------------------------------
+Message to be sent: "A few small hops for frames, but a giant leap for this message."
+
+Frame #1
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 8.8.8.8, Receiver IP address: 0.0.1.1
+Sender port number: 0706, Receiver port number: 0607
+Sender ID: C, Receiver ID: E
+Message chunk carried: "A few small hops for"
+Number of hops so far: 0
+--------
+Frame #2
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 8.8.8.8, Receiver IP address: 0.0.1.1
+Sender port number: 0706, Receiver port number: 0607
+Sender ID: C, Receiver ID: E
+Message chunk carried: " frames, but a giant"
+Number of hops so far: 0
+--------
+Frame #3
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 8.8.8.8, Receiver IP address: 0.0.1.1
+Sender port number: 0706, Receiver port number: 0607
+Sender ID: C, Receiver ID: E
+Message chunk carried: " leap for this messa"
+Number of hops so far: 0
+--------
+Frame #4
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 8.8.8.8, Receiver IP address: 0.0.1.1
+Sender port number: 0706, Receiver port number: 0607
+Sender ID: C, Receiver ID: E
+Message chunk carried: "ge."
+Number of hops so far: 0
+--------
+-------------------------------------------
+Command: MESSAGE C E #TAs' PAs = no sleep!#
+-------------------------------------------
+Message to be sent: "TAs' PAs = no sleep!"
+
+Frame #1
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 8.8.8.8, Receiver IP address: 0.0.1.1
+Sender port number: 0706, Receiver port number: 0607
+Sender ID: C, Receiver ID: E
+Message chunk carried: "TAs' PAs = no sleep!"
+Number of hops so far: 0
+--------
+--------------------------------
+Command: SHOW_FRAME_INFO C out 3
+--------------------------------
+Current Frame #3 on the outgoing queue of client C
+Carried Message: " leap for this messa"
+Layer 0 info: Sender ID: C, Receiver ID: E
+Layer 1 info: Sender port number: 0706, Receiver port number: 0607
+Layer 2 info: Sender IP address: 8.8.8.8, Receiver IP address: 0.0.1.1
+Layer 3 info: Sender MAC address: CCCCCCCCCC, Receiver MAC address: BBBBBBBBBB
+Number of hops so far: 0
+--------------------------
+Command: SHOW_Q_INFO C out
+--------------------------
+Client C Outgoing Queue Status
+Current total number of frames: 5
+-------------------------
+Command: SHOW_Q_INFO C in
+-------------------------
+Client C Incoming Queue Status
+Current total number of frames: 0
+-------------------------------
+Command: SHOW_FRAME_INFO C in 5
+-------------------------------
+No such frame.
+-------------
+Command: SEND
+-------------
+Client C sending frame #1 to client B
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 8.8.8.8, Receiver IP address: 0.0.1.1
+Sender port number: 0706, Receiver port number: 0607
+Sender ID: C, Receiver ID: E
+Message chunk carried: "A few small hops for"
+Number of hops so far: 1
+--------
+Client C sending frame #2 to client B
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 8.8.8.8, Receiver IP address: 0.0.1.1
+Sender port number: 0706, Receiver port number: 0607
+Sender ID: C, Receiver ID: E
+Message chunk carried: " frames, but a giant"
+Number of hops so far: 1
+--------
+Client C sending frame #3 to client B
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 8.8.8.8, Receiver IP address: 0.0.1.1
+Sender port number: 0706, Receiver port number: 0607
+Sender ID: C, Receiver ID: E
+Message chunk carried: " leap for this messa"
+Number of hops so far: 1
+--------
+Client C sending frame #4 to client B
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 8.8.8.8, Receiver IP address: 0.0.1.1
+Sender port number: 0706, Receiver port number: 0607
+Sender ID: C, Receiver ID: E
+Message chunk carried: "ge."
+Number of hops so far: 1
+--------
+Client C sending frame #1 to client B
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 8.8.8.8, Receiver IP address: 0.0.1.1
+Sender port number: 0706, Receiver port number: 0607
+Sender ID: C, Receiver ID: E
+Message chunk carried: "TAs' PAs = no sleep!"
+Number of hops so far: 1
+--------
+----------------
+Command: RECEIVE
+----------------
+Client B receiving frame #1 from client C, but intended for client E. Forwarding... 
+Error: Unreachable destination. Packets are dropped after 1 hops!
+Client B receiving frame #2 from client C, but intended for client E. Forwarding... 
+Error: Unreachable destination. Packets are dropped after 1 hops!
+Client B receiving frame #3 from client C, but intended for client E. Forwarding... 
+Error: Unreachable destination. Packets are dropped after 1 hops!
+Client B receiving frame #4 from client C, but intended for client E. Forwarding... 
+Error: Unreachable destination. Packets are dropped after 1 hops!
+--------
+Client B receiving frame #1 from client C, but intended for client E. Forwarding... 
+Error: Unreachable destination. Packets are dropped after 1 hops!
+--------
+-------------
+Command: SEND
+-------------
+----------------
+Command: RECEIVE
+----------------
+-------------
+Command: SEND
+-------------
+----------------
+Command: RECEIVE
+----------------
+--------------------
+Command: PRINT_LOG A
+--------------------
+--------------------
+Command: PRINT_LOG B
+--------------------
+Client B Logs:
+--------------
+Log Entry #1:
+Activity: Message Dropped
+Timestamp: 2023-11-22 20:30:03
+Number of frames: 4
+Number of hops: 1
+Sender ID: C
+Receiver ID: E
+Success: No
+--------------
+Log Entry #2:
+Activity: Message Dropped
+Timestamp: 2023-11-22 20:30:03
+Number of frames: 1
+Number of hops: 1
+Sender ID: C
+Receiver ID: E
+Success: No
+--------------------
+Command: PRINT_LOG C
+--------------------
+Client C Logs:
+--------------
+Log Entry #1:
+Activity: Message Sent
+Timestamp: 2023-11-22 20:30:03
+Number of frames: 4
+Number of hops: 0
+Sender ID: C
+Receiver ID: E
+Success: Yes
+Message: "A few small hops for frames, but a giant leap for this message."
+--------------
+Log Entry #2:
+Activity: Message Sent
+Timestamp: 2023-11-22 20:30:03
+Number of frames: 1
+Number of hops: 0
+Sender ID: C
+Receiver ID: E
+Success: Yes
+Message: "TAs' PAs = no sleep!"
+--------------------
+Command: PRINT_LOG D
+--------------------
+--------------------
+Command: PRINT_LOG E
+--------------------
+----------------------
+Command: DDOS_ATTACK A
+----------------------
+Invalid command.

@@ -1,0 +1,1138 @@
+--------------------------------------------------------------------------------------------------------------------------------------
+Command: MESSAGE A B #Every time we get a new assignment I am convinced our TAs are trying to debug our social life out of existence.#
+--------------------------------------------------------------------------------------------------------------------------------------
+Message to be sent: "Every time we get a new assignment I am convinced our TAs are trying to debug our social life out of existence."
+
+Frame #1
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "Every time"
+Number of hops so far: 0
+--------
+Frame #2
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: " we get a "
+Number of hops so far: 0
+--------
+Frame #3
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "new assign"
+Number of hops so far: 0
+--------
+Frame #4
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "ment I am "
+Number of hops so far: 0
+--------
+Frame #5
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "convinced "
+Number of hops so far: 0
+--------
+Frame #6
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "our TAs ar"
+Number of hops so far: 0
+--------
+Frame #7
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "e trying t"
+Number of hops so far: 0
+--------
+Frame #8
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "o debug ou"
+Number of hops so far: 0
+--------
+Frame #9
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "r social l"
+Number of hops so far: 0
+--------
+Frame #10
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "ife out of"
+Number of hops so far: 0
+--------
+Frame #11
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: " existence"
+Number of hops so far: 0
+--------
+Frame #12
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "."
+Number of hops so far: 0
+--------
+--------------------------------------------------------------------------------------------------------------------------------------------
+Command: MESSAGE X B #Our TAs assignments make me wonder if the 'sleep' function has been deprecated in the latest version of student life.#
+--------------------------------------------------------------------------------------------------------------------------------------------
+Message to be sent: "Our TAs assignments make me wonder if the 'sleep' function has been deprecated in the latest version of student life."
+
+Frame #1
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 0.0.0.0, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: X, Receiver ID: B
+Message chunk carried: "Our TAs as"
+Number of hops so far: 0
+--------
+Frame #2
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 0.0.0.0, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: X, Receiver ID: B
+Message chunk carried: "signments "
+Number of hops so far: 0
+--------
+Frame #3
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 0.0.0.0, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: X, Receiver ID: B
+Message chunk carried: "make me wo"
+Number of hops so far: 0
+--------
+Frame #4
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 0.0.0.0, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: X, Receiver ID: B
+Message chunk carried: "nder if th"
+Number of hops so far: 0
+--------
+Frame #5
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 0.0.0.0, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: X, Receiver ID: B
+Message chunk carried: "e 'sleep' "
+Number of hops so far: 0
+--------
+Frame #6
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 0.0.0.0, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: X, Receiver ID: B
+Message chunk carried: "function h"
+Number of hops so far: 0
+--------
+Frame #7
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 0.0.0.0, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: X, Receiver ID: B
+Message chunk carried: "as been de"
+Number of hops so far: 0
+--------
+Frame #8
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 0.0.0.0, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: X, Receiver ID: B
+Message chunk carried: "precated i"
+Number of hops so far: 0
+--------
+Frame #9
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 0.0.0.0, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: X, Receiver ID: B
+Message chunk carried: "n the late"
+Number of hops so far: 0
+--------
+Frame #10
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 0.0.0.0, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: X, Receiver ID: B
+Message chunk carried: "st version"
+Number of hops so far: 0
+--------
+Frame #11
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 0.0.0.0, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: X, Receiver ID: B
+Message chunk carried: " of studen"
+Number of hops so far: 0
+--------
+Frame #12
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 0.0.0.0, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: X, Receiver ID: B
+Message chunk carried: "t life."
+Number of hops so far: 0
+--------
+--------------------------------
+Command: SHOW_FRAME_INFO A out 3
+--------------------------------
+Current Frame #3 on the outgoing queue of client A
+Carried Message: "new assign"
+Layer 0 info: Sender ID: A, Receiver ID: B
+Layer 1 info: Sender port number: 895, Receiver port number: 7541
+Layer 2 info: Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Layer 3 info: Sender MAC address: AAAAAAAAAA, Receiver MAC address: XXXXXXXXXX
+Number of hops so far: 0
+-------------------------------
+Command: SHOW_FRAME_INFO A in 2
+-------------------------------
+No such frame.
+-------------------------------
+Command: SHOW_FRAME_INFO B in 1
+-------------------------------
+No such frame.
+--------------------------
+Command: SHOW_Q_INFO A out
+--------------------------
+Client A Outgoing Queue Status
+Current total number of frames: 12
+-------------------------
+Command: SHOW_Q_INFO B in
+-------------------------
+Client B Incoming Queue Status
+Current total number of frames: 0
+--------------------------
+Command: SHOW_Q_INFO X out
+--------------------------
+Client X Outgoing Queue Status
+Current total number of frames: 12
+-------------
+Command: SEND
+-------------
+Client A sending frame #1 to client X
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "Every time"
+Number of hops so far: 1
+--------
+Client A sending frame #2 to client X
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: " we get a "
+Number of hops so far: 1
+--------
+Client A sending frame #3 to client X
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "new assign"
+Number of hops so far: 1
+--------
+Client A sending frame #4 to client X
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "ment I am "
+Number of hops so far: 1
+--------
+Client A sending frame #5 to client X
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "convinced "
+Number of hops so far: 1
+--------
+Client A sending frame #6 to client X
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "our TAs ar"
+Number of hops so far: 1
+--------
+Client A sending frame #7 to client X
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "e trying t"
+Number of hops so far: 1
+--------
+Client A sending frame #8 to client X
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "o debug ou"
+Number of hops so far: 1
+--------
+Client A sending frame #9 to client X
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "r social l"
+Number of hops so far: 1
+--------
+Client A sending frame #10 to client X
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "ife out of"
+Number of hops so far: 1
+--------
+Client A sending frame #11 to client X
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: " existence"
+Number of hops so far: 1
+--------
+Client A sending frame #12 to client X
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "."
+Number of hops so far: 1
+--------
+Client X sending frame #1 to client B
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 0.0.0.0, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: X, Receiver ID: B
+Message chunk carried: "Our TAs as"
+Number of hops so far: 1
+--------
+Client X sending frame #2 to client B
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 0.0.0.0, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: X, Receiver ID: B
+Message chunk carried: "signments "
+Number of hops so far: 1
+--------
+Client X sending frame #3 to client B
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 0.0.0.0, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: X, Receiver ID: B
+Message chunk carried: "make me wo"
+Number of hops so far: 1
+--------
+Client X sending frame #4 to client B
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 0.0.0.0, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: X, Receiver ID: B
+Message chunk carried: "nder if th"
+Number of hops so far: 1
+--------
+Client X sending frame #5 to client B
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 0.0.0.0, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: X, Receiver ID: B
+Message chunk carried: "e 'sleep' "
+Number of hops so far: 1
+--------
+Client X sending frame #6 to client B
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 0.0.0.0, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: X, Receiver ID: B
+Message chunk carried: "function h"
+Number of hops so far: 1
+--------
+Client X sending frame #7 to client B
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 0.0.0.0, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: X, Receiver ID: B
+Message chunk carried: "as been de"
+Number of hops so far: 1
+--------
+Client X sending frame #8 to client B
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 0.0.0.0, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: X, Receiver ID: B
+Message chunk carried: "precated i"
+Number of hops so far: 1
+--------
+Client X sending frame #9 to client B
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 0.0.0.0, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: X, Receiver ID: B
+Message chunk carried: "n the late"
+Number of hops so far: 1
+--------
+Client X sending frame #10 to client B
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 0.0.0.0, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: X, Receiver ID: B
+Message chunk carried: "st version"
+Number of hops so far: 1
+--------
+Client X sending frame #11 to client B
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 0.0.0.0, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: X, Receiver ID: B
+Message chunk carried: " of studen"
+Number of hops so far: 1
+--------
+Client X sending frame #12 to client B
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 0.0.0.0, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: X, Receiver ID: B
+Message chunk carried: "t life."
+Number of hops so far: 1
+--------
+-----------------------
+Command: EAVESDROP_ON X
+-----------------------
+Invalid command.
+--------------------------------
+Command: SHOW_FRAME_INFO A out 3
+--------------------------------
+No such frame.
+-------------------------------
+Command: SHOW_FRAME_INFO B in 1
+-------------------------------
+Current Frame #1 on the incoming queue of client B
+Carried Message: "Our TAs as"
+Layer 0 info: Sender ID: X, Receiver ID: B
+Layer 1 info: Sender port number: 895, Receiver port number: 7541
+Layer 2 info: Sender IP address: 0.0.0.0, Receiver IP address: 4.3.2.1
+Layer 3 info: Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Number of hops so far: 1
+--------------------------
+Command: SHOW_Q_INFO X out
+--------------------------
+Client X Outgoing Queue Status
+Current total number of frames: 0
+-------------------------
+Command: SHOW_Q_INFO B in
+-------------------------
+Client B Incoming Queue Status
+Current total number of frames: 12
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Command: MESSAGE C D #I am convinced our TAs think we are a cluster of AI machines with the amount of processing power these assignments require.#
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Message to be sent: "I am convinced our TAs think we are a cluster of AI machines with the amount of processing power these assignments require."
+
+Frame #1
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 8.8.8.8, Receiver IP address: 9.9.9.9
+Sender port number: 895, Receiver port number: 7541
+Sender ID: C, Receiver ID: D
+Message chunk carried: "I am convi"
+Number of hops so far: 0
+--------
+Frame #2
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 8.8.8.8, Receiver IP address: 9.9.9.9
+Sender port number: 895, Receiver port number: 7541
+Sender ID: C, Receiver ID: D
+Message chunk carried: "nced our T"
+Number of hops so far: 0
+--------
+Frame #3
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 8.8.8.8, Receiver IP address: 9.9.9.9
+Sender port number: 895, Receiver port number: 7541
+Sender ID: C, Receiver ID: D
+Message chunk carried: "As think w"
+Number of hops so far: 0
+--------
+Frame #4
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 8.8.8.8, Receiver IP address: 9.9.9.9
+Sender port number: 895, Receiver port number: 7541
+Sender ID: C, Receiver ID: D
+Message chunk carried: "e are a cl"
+Number of hops so far: 0
+--------
+Frame #5
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 8.8.8.8, Receiver IP address: 9.9.9.9
+Sender port number: 895, Receiver port number: 7541
+Sender ID: C, Receiver ID: D
+Message chunk carried: "uster of A"
+Number of hops so far: 0
+--------
+Frame #6
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 8.8.8.8, Receiver IP address: 9.9.9.9
+Sender port number: 895, Receiver port number: 7541
+Sender ID: C, Receiver ID: D
+Message chunk carried: "I machines"
+Number of hops so far: 0
+--------
+Frame #7
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 8.8.8.8, Receiver IP address: 9.9.9.9
+Sender port number: 895, Receiver port number: 7541
+Sender ID: C, Receiver ID: D
+Message chunk carried: " with the "
+Number of hops so far: 0
+--------
+Frame #8
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 8.8.8.8, Receiver IP address: 9.9.9.9
+Sender port number: 895, Receiver port number: 7541
+Sender ID: C, Receiver ID: D
+Message chunk carried: "amount of "
+Number of hops so far: 0
+--------
+Frame #9
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 8.8.8.8, Receiver IP address: 9.9.9.9
+Sender port number: 895, Receiver port number: 7541
+Sender ID: C, Receiver ID: D
+Message chunk carried: "processing"
+Number of hops so far: 0
+--------
+Frame #10
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 8.8.8.8, Receiver IP address: 9.9.9.9
+Sender port number: 895, Receiver port number: 7541
+Sender ID: C, Receiver ID: D
+Message chunk carried: " power the"
+Number of hops so far: 0
+--------
+Frame #11
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 8.8.8.8, Receiver IP address: 9.9.9.9
+Sender port number: 895, Receiver port number: 7541
+Sender ID: C, Receiver ID: D
+Message chunk carried: "se assignm"
+Number of hops so far: 0
+--------
+Frame #12
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 8.8.8.8, Receiver IP address: 9.9.9.9
+Sender port number: 895, Receiver port number: 7541
+Sender ID: C, Receiver ID: D
+Message chunk carried: "ents requi"
+Number of hops so far: 0
+--------
+Frame #13
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 8.8.8.8, Receiver IP address: 9.9.9.9
+Sender port number: 895, Receiver port number: 7541
+Sender ID: C, Receiver ID: D
+Message chunk carried: "re."
+Number of hops so far: 0
+--------
+--------------------------
+Command: SHOW_Q_INFO C out
+--------------------------
+Client C Outgoing Queue Status
+Current total number of frames: 13
+--------------------------------
+Command: SHOW_FRAME_INFO C out 6
+--------------------------------
+Current Frame #6 on the outgoing queue of client C
+Carried Message: "I machines"
+Layer 0 info: Sender ID: C, Receiver ID: D
+Layer 1 info: Sender port number: 895, Receiver port number: 7541
+Layer 2 info: Sender IP address: 8.8.8.8, Receiver IP address: 9.9.9.9
+Layer 3 info: Sender MAC address: CCCCCCCCCC, Receiver MAC address: XXXXXXXXXX
+Number of hops so far: 0
+----------------
+Command: RECEIVE
+----------------
+Client B receiving frame #1 from client X, originating from client X
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 0.0.0.0, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: X, Receiver ID: B
+Message chunk carried: "Our TAs as"
+Number of hops so far: 1
+--------
+Client B receiving frame #2 from client X, originating from client X
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 0.0.0.0, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: X, Receiver ID: B
+Message chunk carried: "signments "
+Number of hops so far: 1
+--------
+Client B receiving frame #3 from client X, originating from client X
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 0.0.0.0, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: X, Receiver ID: B
+Message chunk carried: "make me wo"
+Number of hops so far: 1
+--------
+Client B receiving frame #4 from client X, originating from client X
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 0.0.0.0, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: X, Receiver ID: B
+Message chunk carried: "nder if th"
+Number of hops so far: 1
+--------
+Client B receiving frame #5 from client X, originating from client X
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 0.0.0.0, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: X, Receiver ID: B
+Message chunk carried: "e 'sleep' "
+Number of hops so far: 1
+--------
+Client B receiving frame #6 from client X, originating from client X
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 0.0.0.0, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: X, Receiver ID: B
+Message chunk carried: "function h"
+Number of hops so far: 1
+--------
+Client B receiving frame #7 from client X, originating from client X
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 0.0.0.0, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: X, Receiver ID: B
+Message chunk carried: "as been de"
+Number of hops so far: 1
+--------
+Client B receiving frame #8 from client X, originating from client X
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 0.0.0.0, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: X, Receiver ID: B
+Message chunk carried: "precated i"
+Number of hops so far: 1
+--------
+Client B receiving frame #9 from client X, originating from client X
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 0.0.0.0, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: X, Receiver ID: B
+Message chunk carried: "n the late"
+Number of hops so far: 1
+--------
+Client B receiving frame #10 from client X, originating from client X
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 0.0.0.0, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: X, Receiver ID: B
+Message chunk carried: "st version"
+Number of hops so far: 1
+--------
+Client B receiving frame #11 from client X, originating from client X
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 0.0.0.0, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: X, Receiver ID: B
+Message chunk carried: " of studen"
+Number of hops so far: 1
+--------
+Client B receiving frame #12 from client X, originating from client X
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 0.0.0.0, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: X, Receiver ID: B
+Message chunk carried: "t life."
+Number of hops so far: 1
+--------
+Client B received the message "Our TAs assignments make me wonder if the 'sleep' function has been deprecated in the latest version of student life." from client X.
+--------
+Client X receiving a message from client A, but intended for client B. Forwarding... 
+Frame #1 MAC address change: New sender MAC XXXXXXXXXX, new receiver MAC BBBBBBBBBB
+Frame #2 MAC address change: New sender MAC XXXXXXXXXX, new receiver MAC BBBBBBBBBB
+Frame #3 MAC address change: New sender MAC XXXXXXXXXX, new receiver MAC BBBBBBBBBB
+Frame #4 MAC address change: New sender MAC XXXXXXXXXX, new receiver MAC BBBBBBBBBB
+Frame #5 MAC address change: New sender MAC XXXXXXXXXX, new receiver MAC BBBBBBBBBB
+Frame #6 MAC address change: New sender MAC XXXXXXXXXX, new receiver MAC BBBBBBBBBB
+Frame #7 MAC address change: New sender MAC XXXXXXXXXX, new receiver MAC BBBBBBBBBB
+Frame #8 MAC address change: New sender MAC XXXXXXXXXX, new receiver MAC BBBBBBBBBB
+Frame #9 MAC address change: New sender MAC XXXXXXXXXX, new receiver MAC BBBBBBBBBB
+Frame #10 MAC address change: New sender MAC XXXXXXXXXX, new receiver MAC BBBBBBBBBB
+Frame #11 MAC address change: New sender MAC XXXXXXXXXX, new receiver MAC BBBBBBBBBB
+Frame #12 MAC address change: New sender MAC XXXXXXXXXX, new receiver MAC BBBBBBBBBB
+--------
+-------------------------------
+Command: SHOW_FRAME_INFO B in 1
+-------------------------------
+No such frame.
+-------------------------
+Command: SHOW_Q_INFO B in
+-------------------------
+Client B Incoming Queue Status
+Current total number of frames: 0
+-------------
+Command: SEND
+-------------
+Client C sending frame #1 to client X
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 8.8.8.8, Receiver IP address: 9.9.9.9
+Sender port number: 895, Receiver port number: 7541
+Sender ID: C, Receiver ID: D
+Message chunk carried: "I am convi"
+Number of hops so far: 1
+--------
+Client C sending frame #2 to client X
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 8.8.8.8, Receiver IP address: 9.9.9.9
+Sender port number: 895, Receiver port number: 7541
+Sender ID: C, Receiver ID: D
+Message chunk carried: "nced our T"
+Number of hops so far: 1
+--------
+Client C sending frame #3 to client X
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 8.8.8.8, Receiver IP address: 9.9.9.9
+Sender port number: 895, Receiver port number: 7541
+Sender ID: C, Receiver ID: D
+Message chunk carried: "As think w"
+Number of hops so far: 1
+--------
+Client C sending frame #4 to client X
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 8.8.8.8, Receiver IP address: 9.9.9.9
+Sender port number: 895, Receiver port number: 7541
+Sender ID: C, Receiver ID: D
+Message chunk carried: "e are a cl"
+Number of hops so far: 1
+--------
+Client C sending frame #5 to client X
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 8.8.8.8, Receiver IP address: 9.9.9.9
+Sender port number: 895, Receiver port number: 7541
+Sender ID: C, Receiver ID: D
+Message chunk carried: "uster of A"
+Number of hops so far: 1
+--------
+Client C sending frame #6 to client X
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 8.8.8.8, Receiver IP address: 9.9.9.9
+Sender port number: 895, Receiver port number: 7541
+Sender ID: C, Receiver ID: D
+Message chunk carried: "I machines"
+Number of hops so far: 1
+--------
+Client C sending frame #7 to client X
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 8.8.8.8, Receiver IP address: 9.9.9.9
+Sender port number: 895, Receiver port number: 7541
+Sender ID: C, Receiver ID: D
+Message chunk carried: " with the "
+Number of hops so far: 1
+--------
+Client C sending frame #8 to client X
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 8.8.8.8, Receiver IP address: 9.9.9.9
+Sender port number: 895, Receiver port number: 7541
+Sender ID: C, Receiver ID: D
+Message chunk carried: "amount of "
+Number of hops so far: 1
+--------
+Client C sending frame #9 to client X
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 8.8.8.8, Receiver IP address: 9.9.9.9
+Sender port number: 895, Receiver port number: 7541
+Sender ID: C, Receiver ID: D
+Message chunk carried: "processing"
+Number of hops so far: 1
+--------
+Client C sending frame #10 to client X
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 8.8.8.8, Receiver IP address: 9.9.9.9
+Sender port number: 895, Receiver port number: 7541
+Sender ID: C, Receiver ID: D
+Message chunk carried: " power the"
+Number of hops so far: 1
+--------
+Client C sending frame #11 to client X
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 8.8.8.8, Receiver IP address: 9.9.9.9
+Sender port number: 895, Receiver port number: 7541
+Sender ID: C, Receiver ID: D
+Message chunk carried: "se assignm"
+Number of hops so far: 1
+--------
+Client C sending frame #12 to client X
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 8.8.8.8, Receiver IP address: 9.9.9.9
+Sender port number: 895, Receiver port number: 7541
+Sender ID: C, Receiver ID: D
+Message chunk carried: "ents requi"
+Number of hops so far: 1
+--------
+Client C sending frame #13 to client X
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: XXXXXXXXXX
+Sender IP address: 8.8.8.8, Receiver IP address: 9.9.9.9
+Sender port number: 895, Receiver port number: 7541
+Sender ID: C, Receiver ID: D
+Message chunk carried: "re."
+Number of hops so far: 1
+--------
+Client X sending frame #1 to client B
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "Every time"
+Number of hops so far: 2
+--------
+Client X sending frame #2 to client B
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: " we get a "
+Number of hops so far: 2
+--------
+Client X sending frame #3 to client B
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "new assign"
+Number of hops so far: 2
+--------
+Client X sending frame #4 to client B
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "ment I am "
+Number of hops so far: 2
+--------
+Client X sending frame #5 to client B
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "convinced "
+Number of hops so far: 2
+--------
+Client X sending frame #6 to client B
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "our TAs ar"
+Number of hops so far: 2
+--------
+Client X sending frame #7 to client B
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "e trying t"
+Number of hops so far: 2
+--------
+Client X sending frame #8 to client B
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "o debug ou"
+Number of hops so far: 2
+--------
+Client X sending frame #9 to client B
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "r social l"
+Number of hops so far: 2
+--------
+Client X sending frame #10 to client B
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "ife out of"
+Number of hops so far: 2
+--------
+Client X sending frame #11 to client B
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: " existence"
+Number of hops so far: 2
+--------
+Client X sending frame #12 to client B
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "."
+Number of hops so far: 2
+--------
+--------------------------
+Command: SHOW_Q_INFO C out
+--------------------------
+Client C Outgoing Queue Status
+Current total number of frames: 0
+--------------------------------
+Command: SHOW_FRAME_INFO C out 6
+--------------------------------
+No such frame.
+-------------------------
+Command: SHOW_Q_INFO D in
+-------------------------
+Client D Incoming Queue Status
+Current total number of frames: 0
+----------------
+Command: RECEIVE
+----------------
+Client B receiving frame #1 from client X, originating from client A
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "Every time"
+Number of hops so far: 2
+--------
+Client B receiving frame #2 from client X, originating from client A
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: " we get a "
+Number of hops so far: 2
+--------
+Client B receiving frame #3 from client X, originating from client A
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "new assign"
+Number of hops so far: 2
+--------
+Client B receiving frame #4 from client X, originating from client A
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "ment I am "
+Number of hops so far: 2
+--------
+Client B receiving frame #5 from client X, originating from client A
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "convinced "
+Number of hops so far: 2
+--------
+Client B receiving frame #6 from client X, originating from client A
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "our TAs ar"
+Number of hops so far: 2
+--------
+Client B receiving frame #7 from client X, originating from client A
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "e trying t"
+Number of hops so far: 2
+--------
+Client B receiving frame #8 from client X, originating from client A
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "o debug ou"
+Number of hops so far: 2
+--------
+Client B receiving frame #9 from client X, originating from client A
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "r social l"
+Number of hops so far: 2
+--------
+Client B receiving frame #10 from client X, originating from client A
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "ife out of"
+Number of hops so far: 2
+--------
+Client B receiving frame #11 from client X, originating from client A
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: " existence"
+Number of hops so far: 2
+--------
+Client B receiving frame #12 from client X, originating from client A
+Sender MAC address: XXXXXXXXXX, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "."
+Number of hops so far: 2
+--------
+Client B received the message "Every time we get a new assignment I am convinced our TAs are trying to debug our social life out of existence." from client A.
+--------
+Client X receiving frame #1 from client C, but intended for client D. Forwarding... 
+Error: Unreachable destination. Packets are dropped after 1 hops!
+Client X receiving frame #2 from client C, but intended for client D. Forwarding... 
+Error: Unreachable destination. Packets are dropped after 1 hops!
+Client X receiving frame #3 from client C, but intended for client D. Forwarding... 
+Error: Unreachable destination. Packets are dropped after 1 hops!
+Client X receiving frame #4 from client C, but intended for client D. Forwarding... 
+Error: Unreachable destination. Packets are dropped after 1 hops!
+Client X receiving frame #5 from client C, but intended for client D. Forwarding... 
+Error: Unreachable destination. Packets are dropped after 1 hops!
+Client X receiving frame #6 from client C, but intended for client D. Forwarding... 
+Error: Unreachable destination. Packets are dropped after 1 hops!
+Client X receiving frame #7 from client C, but intended for client D. Forwarding... 
+Error: Unreachable destination. Packets are dropped after 1 hops!
+Client X receiving frame #8 from client C, but intended for client D. Forwarding... 
+Error: Unreachable destination. Packets are dropped after 1 hops!
+Client X receiving frame #9 from client C, but intended for client D. Forwarding... 
+Error: Unreachable destination. Packets are dropped after 1 hops!
+Client X receiving frame #10 from client C, but intended for client D. Forwarding... 
+Error: Unreachable destination. Packets are dropped after 1 hops!
+Client X receiving frame #11 from client C, but intended for client D. Forwarding... 
+Error: Unreachable destination. Packets are dropped after 1 hops!
+Client X receiving frame #12 from client C, but intended for client D. Forwarding... 
+Error: Unreachable destination. Packets are dropped after 1 hops!
+Client X receiving frame #13 from client C, but intended for client D. Forwarding... 
+Error: Unreachable destination. Packets are dropped after 1 hops!
+--------
+--------------------
+Command: PRINT_LOG A
+--------------------
+Client A Logs:
+--------------
+Log Entry #1:
+Activity: Message Sent
+Timestamp: 2023-11-22 20:30:04
+Number of frames: 12
+Number of hops: 0
+Sender ID: A
+Receiver ID: B
+Success: Yes
+Message: "Every time we get a new assignment I am convinced our TAs are trying to debug our social life out of existence."
+--------------------
+Command: PRINT_LOG B
+--------------------
+Client B Logs:
+--------------
+Log Entry #1:
+Activity: Message Received
+Timestamp: 2023-11-22 20:30:04
+Number of frames: 12
+Number of hops: 1
+Sender ID: X
+Receiver ID: B
+Success: Yes
+Message: "Our TAs assignments make me wonder if the 'sleep' function has been deprecated in the latest version of student life."
+--------------
+Log Entry #2:
+Activity: Message Received
+Timestamp: 2023-11-22 20:30:04
+Number of frames: 12
+Number of hops: 2
+Sender ID: A
+Receiver ID: B
+Success: Yes
+Message: "Every time we get a new assignment I am convinced our TAs are trying to debug our social life out of existence."
+--------------------
+Command: PRINT_LOG C
+--------------------
+Client C Logs:
+--------------
+Log Entry #1:
+Activity: Message Sent
+Timestamp: 2023-11-22 20:30:04
+Number of frames: 13
+Number of hops: 0
+Sender ID: C
+Receiver ID: D
+Success: Yes
+Message: "I am convinced our TAs think we are a cluster of AI machines with the amount of processing power these assignments require."
+--------------------
+Command: PRINT_LOG D
+--------------------
+--------------------
+Command: PRINT_LOG X
+--------------------
+Client X Logs:
+--------------
+Log Entry #1:
+Activity: Message Sent
+Timestamp: 2023-11-22 20:30:04
+Number of frames: 12
+Number of hops: 0
+Sender ID: X
+Receiver ID: B
+Success: Yes
+Message: "Our TAs assignments make me wonder if the 'sleep' function has been deprecated in the latest version of student life."
+--------------
+Log Entry #2:
+Activity: Message Forwarded
+Timestamp: 2023-11-22 20:30:04
+Number of frames: 12
+Number of hops: 1
+Sender ID: A
+Receiver ID: B
+Success: Yes
+--------------
+Log Entry #3:
+Activity: Message Dropped
+Timestamp: 2023-11-22 20:30:04
+Number of frames: 13
+Number of hops: 1
+Sender ID: C
+Receiver ID: D
+Success: No

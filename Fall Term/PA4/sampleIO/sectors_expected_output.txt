@@ -1,0 +1,97 @@
+Space sectors inorder traversal:
+25LDS
+37LDB
+37LDF
+18LDF
+18LUF
+0SSS
+50SUB
+18RUB
+37RUF
+45RDF
+43RDF
+25RUS
+70RUF
+
+Space sectors preorder traversal:
+0SSS
+18LDF
+37LDB
+25LDS
+37LDF
+18LUF
+37RUF
+18RUB
+50SUB
+25RUS
+45RDF
+43RDF
+70RUF
+
+Space sectors postorder traversal:
+25LDS
+37LDF
+37LDB
+18LUF
+18LDF
+50SUB
+18RUB
+43RDF
+45RDF
+70RUF
+25RUS
+37RUF
+0SSS
+
+The stellar path to Dr. Elara: 0SSS->37RUF->25RUS->45RDF
+
+A path to Dr. Elara could not be found.
+
+Space sectors inorder traversal:
+BLACK sector: 25LDS
+RED sector: 37LDB
+BLACK sector: 37LDF
+BLACK sector: 18LDF
+BLACK sector: 18LUF
+BLACK sector: 0SSS
+RED sector: 50SUB
+BLACK sector: 18RUB
+RED sector: 37RUF
+RED sector: 45RDF
+BLACK sector: 43RDF
+BLACK sector: 25RUS
+BLACK sector: 70RUF
+
+Space sectors preorder traversal:
+BLACK sector: 0SSS
+BLACK sector: 18LDF
+RED sector: 37LDB
+BLACK sector: 25LDS
+BLACK sector: 37LDF
+BLACK sector: 18LUF
+BLACK sector: 25RUS
+RED sector: 37RUF
+BLACK sector: 18RUB
+RED sector: 50SUB
+BLACK sector: 43RDF
+RED sector: 45RDF
+BLACK sector: 70RUF
+
+Space sectors postorder traversal:
+BLACK sector: 25LDS
+BLACK sector: 37LDF
+RED sector: 37LDB
+BLACK sector: 18LUF
+BLACK sector: 18LDF
+RED sector: 50SUB
+BLACK sector: 18RUB
+RED sector: 45RDF
+BLACK sector: 43RDF
+RED sector: 37RUF
+BLACK sector: 70RUF
+BLACK sector: 25RUS
+BLACK sector: 0SSS
+
+The stellar path to Dr. Elara: 0SSS->25RUS->37RUF->43RDF->45RDF
+
+A path to Dr. Elara could not be found.

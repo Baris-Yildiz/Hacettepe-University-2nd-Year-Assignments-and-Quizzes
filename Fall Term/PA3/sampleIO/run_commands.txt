@@ -1,0 +1,3 @@
+./hubbmnet sampleIO/1_sample_from_instructions/clients.dat sampleIO/1_sample_from_instructions/routing.dat sampleIO/1_sample_from_instructions/commands.dat 20 0706 0607
+./hubbmnet sampleIO/2_routing_data_corrupted/clients.dat sampleIO/2_routing_data_corrupted/routing.dat sampleIO/2_routing_data_corrupted/commands.dat 20 0706 0607
+./hubbmnet sampleIO/3_multiple_messages_corrupt_routing/clients.dat sampleIO/3_multiple_messages_corrupt_routing/routing.dat sampleIO/3_multiple_messages_corrupt_routing/commands.dat 10 895 7541

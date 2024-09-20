@@ -1,0 +1,56 @@
+### URBAN INFRASTRUCTURE DEVELOPMENT START ###
+-----------------------------------------------------------------
+Project name: Main Hyperloop Station Construction
+-----------------------------------------------------------------
+Task ID   Description                                  Start  End  
+-----------------------------------------------------------------
+0         Initial Groundwork and Site Preparation      0      5    
+1         Structural Framework Installation            5      9    
+2         Power Systems Integration                    9      11   
+3         Control Systems Setup                        13     14   
+4         Passenger Facilities Construction            9      13   
+5         Safety Checks and Approvals                  14     17   
+-----------------------------------------------------------------
+Project will be completed in 17 days.
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+Project name: Hyperloop Tube Manufacturing
+-----------------------------------------------------------------
+Task ID   Description                                  Start  End  
+-----------------------------------------------------------------
+0         Material Selection and Procurement           0      5    
+1         Tube Design and Specification                5      35   
+2         Prototype Development and Testing            35     95   
+3         Fabrication Process Setup                    95     155  
+4         Tube Production and Welding                  155    185  
+5         Quality Control and Inspection               185    200  
+6         Surface Treatment and Coating                185    205  
+7         Final Inspection and Deployment              205    224  
+-----------------------------------------------------------------
+Project will be completed in 224 days.
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+Project name: Hyperloop Pod Development
+-----------------------------------------------------------------
+Task ID   Description                                  Start  End  
+-----------------------------------------------------------------
+0         Conceptual Design                            0      15   
+1         Prototype Construction and Assembly          15     135  
+2         Propulsion System Integration                135    181  
+3         Aerodynamics Testing and Optimization        181    200  
+4         Safety and Performance Testing               200    212  
+5         Final Inspection and Deployment              212    272  
+-----------------------------------------------------------------
+Project will be completed in 272 days.
+-----------------------------------------------------------------
+### URBAN INFRASTRUCTURE DEVELOPMENT END ###
+### URBAN TRANSPORTATION APP START ###
+The fastest route takes 8 minute(s).
+Directions
+----------
+1. Walk from "Starting Point" to "Kizilay-Sincan Line Station 1" for 1.20 minutes.
+2. Get on the train from "Kizilay-Sincan Line Station 1" to "Kizilay-Sincan Line Station 2" for 0.75 minutes.
+3. Walk from "Kizilay-Sincan Line Station 2" to "Ulus-Beytepe Line Station 2" for 2.40 minutes.
+4. Get on the train from "Ulus-Beytepe Line Station 2" to "Ulus-Beytepe Line Station 3" for 0.75 minutes.
+5. Walk from "Ulus-Beytepe Line Station 3" to "Final Destination" for 2.40 minutes.
+### URBAN TRANSPORTATION APP END ###

@@ -1,0 +1,205 @@
+<Projects>
+    <Project>
+        <Name>Main Hyperloop Station Construction</Name>
+        <Tasks>
+            <Task>
+                <TaskID>0</TaskID>
+                <Description>Initial Groundwork and Site Preparation</Description>
+                <Duration>5</Duration>
+                <Dependencies></Dependencies>
+            </Task>
+            <Task>
+                <TaskID>1</TaskID>
+                <Description>Structural Framework Installation</Description>
+                <Duration>4</Duration>
+                <Dependencies>
+                    <DependsOnTaskID>0</DependsOnTaskID>
+                </Dependencies>
+            </Task>
+            <Task>
+                <TaskID>2</TaskID>
+                <Description>Power Systems Integration</Description>
+                <Duration>2</Duration>
+                <Dependencies>
+                    <DependsOnTaskID>1</DependsOnTaskID>
+                </Dependencies>
+            </Task>
+            <Task>
+                <TaskID>3</TaskID>
+                <Description>Control Systems Setup</Description>
+                <Duration>1</Duration>
+                <Dependencies>
+                    <DependsOnTaskID>2</DependsOnTaskID>
+                    <DependsOnTaskID>4</DependsOnTaskID>
+                </Dependencies>
+            </Task>
+            <Task>
+                <TaskID>4</TaskID>
+                <Description>Passenger Facilities Construction</Description>
+                <Duration>4</Duration>
+                <Dependencies>
+                    <DependsOnTaskID>0</DependsOnTaskID>
+                    <DependsOnTaskID>1</DependsOnTaskID>
+                </Dependencies>
+            </Task>
+            <Task>
+                <TaskID>5</TaskID>
+                <Description>Safety Checks and Approvals</Description>
+                <Duration>3</Duration>
+                <Dependencies>
+                    <DependsOnTaskID>3</DependsOnTaskID>
+                    <DependsOnTaskID>4</DependsOnTaskID>
+                </Dependencies>
+            </Task>
+        </Tasks>
+    </Project>
+
+    
+    <Project>
+        <Name>Hyperloop Tube Manufacturing</Name>
+        <Tasks>
+            <Task>
+                <TaskID>0</TaskID>
+                <Description>Material Selection and Procurement</Description>
+                <Duration>5</Duration>
+                <Dependencies></Dependencies>
+            </Task>
+
+            <Task>
+                <TaskID>1</TaskID>
+                <Description>Tube Design and Specification</Description>
+                <Duration>30</Duration>
+                <Dependencies>
+                    <DependsOnTaskID>0</DependsOnTaskID>
+                </Dependencies>
+            </Task>
+
+            <Task>
+                <TaskID>2</TaskID>
+                <Description>Prototype Development and Testing</Description>
+                <Duration>60</Duration>
+                <Dependencies>
+                    <DependsOnTaskID>0</DependsOnTaskID>
+                    <DependsOnTaskID>1</DependsOnTaskID>
+                </Dependencies>
+            </Task>
+
+            <Task>
+                <TaskID>3</TaskID>
+                <Description>Fabrication Process Setup</Description>
+                <Duration>60</Duration>
+                <Dependencies>
+                    <DependsOnTaskID>2</DependsOnTaskID>
+                </Dependencies>
+            </Task>
+
+            <Task>
+                <TaskID>4</TaskID>
+                <Description>Tube Production and Welding</Description>
+                <Duration>30</Duration>
+                <Dependencies>
+                    <DependsOnTaskID>1</DependsOnTaskID>
+                    <DependsOnTaskID>3</DependsOnTaskID>
+                </Dependencies>
+            </Task>
+
+            <Task>
+                <TaskID>5</TaskID>
+                <Description>Quality Control and Inspection</Description>
+                <Duration>15</Duration>
+                <Dependencies>
+                    <DependsOnTaskID>3</DependsOnTaskID>
+                    <DependsOnTaskID>4</DependsOnTaskID>
+                </Dependencies>
+            </Task>
+
+
+            
+            <Task>
+                <TaskID>6</TaskID>
+                <Description>Surface Treatment and Coating</Description>
+                <Duration>20</Duration>
+                <Dependencies>
+                    <DependsOnTaskID>1</DependsOnTaskID>
+                    <DependsOnTaskID>3</DependsOnTaskID>
+                    <DependsOnTaskID>4</DependsOnTaskID>
+                </Dependencies>
+            </Task>
+
+
+            <Task>
+                <TaskID>7</TaskID>
+                <Description>Final Inspection and Deployment</Description>
+                <Duration>19</Duration>
+                <Dependencies>
+                    <DependsOnTaskID>6</DependsOnTaskID>
+                    <DependsOnTaskID>3</DependsOnTaskID>
+                </Dependencies>
+            </Task>
+
+        </Tasks>
+    </Project>
+
+
+<Project>
+    <Name>Hyperloop Pod Development</Name>
+    <Tasks>
+        <Task>
+            <TaskID>0</TaskID>
+            <Description>Conceptual Design</Description>
+            <Duration>15</Duration>
+            <Dependencies></Dependencies>
+        </Task>
+
+        <Task>
+            <TaskID>1</TaskID>
+            <Description>Prototype Construction and Assembly</Description>
+            <Duration>120</Duration>
+            <Dependencies>
+                <DependsOnTaskID>0</DependsOnTaskID>
+            </Dependencies>
+        </Task>
+
+        <Task>
+            <TaskID>2</TaskID>
+            <Description>Propulsion System Integration</Description>
+            <Duration>46</Duration>
+            <Dependencies>
+                <DependsOnTaskID>0</DependsOnTaskID>
+                <DependsOnTaskID>1</DependsOnTaskID>
+            </Dependencies>
+        </Task>
+
+        <Task>
+            <TaskID>3</TaskID>
+            <Description>Aerodynamics Testing and Optimization</Description>
+            <Duration>19</Duration>
+            <Dependencies>
+                <DependsOnTaskID>0</DependsOnTaskID>
+                <DependsOnTaskID>2</DependsOnTaskID>
+            </Dependencies>
+        </Task>
+
+        <Task>
+            <TaskID>4</TaskID>
+            <Description>Safety and Performance Testing</Description>
+            <Duration>12</Duration>
+            <Dependencies>
+                <DependsOnTaskID>1</DependsOnTaskID>
+                <DependsOnTaskID>3</DependsOnTaskID>
+            </Dependencies>
+        </Task>
+
+        <Task>
+            <TaskID>5</TaskID>
+            <Description>Final Inspection and Deployment</Description>
+            <Duration>60</Duration>
+            <Dependencies>
+                <DependsOnTaskID>4</DependsOnTaskID>
+            </Dependencies>
+        </Task>
+
+    </Tasks>
+</Project>
+
+</Projects>
